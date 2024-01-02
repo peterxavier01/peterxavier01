@@ -5,12 +5,10 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/peterxavier01/peter-uadiale?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/peterxavier01/peter-uadiale?style=for-the-badge)
 
-## I'm a Developer, Designer and Freelancer!!
+## I'm a Developer, Designer, and Freelancer!!
 
-- 👯 I’m looking to collaborate with other content creators.
-- 😎 I’m currently learning ReactJs.
-- 🏫 2022 Goals: Learn more about web3.
-- 👨‍🏭 Fun fact: I love to paint, eat and sleep.
+- 👯 I’m looking to collaborate with other developers and like-minded individuals.
+- 👨‍🏭 Fun fact: I love to code, eat and travel.
 
 ### Connect with me:
 [![website](./assets/twitter-light.svg)](https://twitter.com/peter_uadiale#gh-light-mode-only)
