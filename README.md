@@ -38,4 +38,4 @@
 <br />
 <br />
 
-<img align="left" alt="Peter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterxavier01&show_icons=true&hide_border=false&title_color=2274A5&icon_color=2274A5&bg_color=1b2125&text_color=ffffff&border_color=0c1a25" />
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterxavier01&show_icons=true&theme=dark)
