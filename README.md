@@ -4,7 +4,7 @@ Hi 👋 My name is Peter Uadiale
 Frontend Engineer
 -----------------
 
-I am a passionate engineer who loves crafting brilliant, beautiful and professional user interfaces and experiences.
+I am an engineer with a passion for crafting brilliant, beautiful and professional user interfaces and experiences.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://peterxavier01.github.io/peter-uadiale/)
