@@ -11,7 +11,7 @@ I am an engineer with a passion for crafting brilliant, beautiful and profession
 * ✉️  You can contact me at [uadialepeter@gmail.com](mailto:uadialepeter@gmail.com)
 * 🚀  I'm currently working on [RealHome: Next 14 Real Estate Project](http://https://real-home-one.vercel.app/)
 * 🧠  I'm learning AI/ML, Prompt Engineering & DSA
-* 🤝  I'm open to collaborating on AI/ML projects and frontend projects in general
+* 🤝  I'm open to collaborating on AI/ML projects, Open source projects and frontend projects in general
 
 ### Skills
 
